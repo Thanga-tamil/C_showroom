@@ -1,0 +1,43 @@
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    video {
+      width: 100%;
+      height: auto; 
+      display: block;
+      object-fit: cover;
+      position: fixed; 
+      top: 0;
+      left: 0;
+      z-index: -1; 
+    }
+
+ 
+
+    .content {
+      padding: 20px;
+      color: #f20c0c;
+      font-style: italic;
+      display: flex;
+      justify-content: space-between;
+    
+    }
+
+    .back{
+        display: inline-block;
+        color: red;
+    }
+.eng{
+    padding: 20px;
+      color: #fff;
+      margin-left: 180px;
+}
+
+.eng1,.eng2,.eng3,.eng4{
+    display: inline-block;
+    margin-left: 180px;
+    margin-top: 435px;
+    font-style: italic;
+}

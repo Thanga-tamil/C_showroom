@@ -1,0 +1,40 @@
+.new{
+    margin-top: 5px;
+    margin-left: 520px;
+    font-style: italic;
+}
+body{
+    background-image: url("bugatti.7.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+
+}
+
+.tti{
+    font-size: 100px;
+    font-style: italic;
+    color: rgb(196, 20, 20);
+    margin-left: 110px;
+    margin-top: 50px;
+    font-weight: 800;
+    display: inline-block;
+    
+    
+}
+
+.eng{
+    padding: 10px;
+      color: #fff;
+      margin-left: 180px;
+      margin-top: 260px;
+}
+
+.eng1,.eng2,.eng3,.eng4{
+    display: inline-block;
+    margin-left: 180px;
+    
+    font-style: italic;
+}
